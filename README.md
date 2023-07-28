@@ -9,11 +9,10 @@ To make my learning journey more organized and effective, I've structured my min
 2. Server-Side Topics
 3. Advanced Topics
 
-🔍 Exploring PortSwigger Web Security Labs: 
-For those unfamiliar, PortSwigger Web Security Labs is an exceptional platform that offers hands-on, interactive web security challenges. It's an invaluable resource for individuals like you who want to delve deeper into web application security. Their labs cover a wide range of topics, from foundational client-side and server-side security to advanced techniques that push your skills to the next level. 💡
+### 🔍 Exploring PortSwigger Web Security Labs: 
+For those unfamiliar, PortSwigger Web Security Labs is an exceptional platform that offers hands-on, interactive web security challenges. It's an invaluable resource to delve deeper into web application security. Their labs cover a wide range of topics, from foundational client-side and server-side security to advanced techniques that push your skills to the next level. 💡
 
 hope you enjoy it. 
 
-Links : https://github.com/Saleh-alhourani/MindMaps 
+Links : [Saleh Alhourani ](https://www.linkedin.com/in/saleh-alhourani/)
 
-#WebApplicationSecurity #PortSwigger #Cybersecurity #LearningMindset #ContinuousLearning #InfoSec #WebSecurity #CybersecurityEducation
